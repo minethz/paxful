@@ -1,10 +1,10 @@
 <?php
 // Database configuration
-$servername = "127.0.0.1";
-$port = "3306";
-$username = "u643844326_Paxful";
-$password = "Wifikun412$";
-$dbname = "u643844326_Paxful";
+$servername = "";
+$port = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create a connection
 $conn = new mysqli($servername, $username, $password, $dbname, $port);
