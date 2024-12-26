@@ -1,0 +1,14 @@
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+
+    .site_content_box {
+        padding: 15px;
+    }
+    .site_logo {
+        margin-left: 0px;
+    }
+    .left_area {
+        padding-top: 100px;
+    }
+
+}
